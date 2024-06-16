@@ -1,0 +1,9 @@
+1- create users table:
+- id
+- name
+- email => unique
+
+2- create notes table
+- id
+- body
+- user_id
