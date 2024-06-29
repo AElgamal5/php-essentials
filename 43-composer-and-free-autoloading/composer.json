@@ -1,0 +1,16 @@
+{
+  "name": "elgamal/notes-app",
+  "authors": [
+    {
+      "name": "Ahmed Elgamal",
+      "email": "ahmedelgamal5320@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "HTTP\\": "HTTP/"
+    }
+  }
+}
